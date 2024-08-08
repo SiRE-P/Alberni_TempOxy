@@ -1,3 +1,6 @@
+# Alberni_TempOxy.R
+# Author: Nick Brown (SCA StAD) nicholas.brown@dfo-mpo.gc.ca
+
 # Packages ----------------------------------------------------------------
 
 pkgs <- c("tidyverse", "MBA","reshape2","magrittr","RColorBrewer", "readxl", 
